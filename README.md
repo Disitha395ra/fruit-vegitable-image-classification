@@ -107,3 +107,11 @@ Deploy model using TensorFlow Lite for mobile devices
 The training and validation accuracy during model training:
 ![Accuracy Graph](./images/Training_accuracy.png)
 ![Validation Graph](./images/Validation_accuracy.png)
+
+## Example Prediction
+<p align="center">
+  <img src="./images/img1.png" width="300">
+  <img src="./images/img2.png" width="300">
+  <img src="./images/img3.png" width="300">
+  <img src="./images/img4.png" width="300">
+</p>
