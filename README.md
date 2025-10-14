@@ -96,7 +96,7 @@ fruit-veg-image-classification/
 └── README.md
 ```
 
-##Future Improvements
+## Future Improvements
 
 Add transfer learning (e.g., VGG16, ResNet50)
 Build a Flask or Streamlit web app for live predictions
