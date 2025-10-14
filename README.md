@@ -101,3 +101,8 @@ fruit-veg-image-classification/
 Add transfer learning (e.g., VGG16, ResNet50)
 Build a Flask or Streamlit web app for live predictions
 Deploy model using TensorFlow Lite for mobile devices
+
+## Model Accuracy Graph
+
+The training and validation accuracy during model training:
+![Accuracy Graph](images/Training_accuracy.png)
