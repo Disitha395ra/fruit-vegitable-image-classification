@@ -1,4 +1,4 @@
-# Fruit and Vegetable Image Classification
+# 🥦🍎 Fruit and Vegetable Image Classification
 This project is a deep learning-based image recognition system built using TensorFlow and Keras to classify images of fruits and vegetables into 36 categories.  
 It demonstrates an end-to-end workflow from dataset preparation to model training, evaluation, and prediction.
 
@@ -30,6 +30,10 @@ Note: The dataset is not uploaded to GitHub because of its size (ignored using .
 - Jupyter Notebook  
 
 ---
+
+## 🧩 Dataset
+
+- **Source:** [Kaggle Fruit and Vegetable Image Classification Dataset](https://www.kaggle.com/)
 
 ## Model Architecture
 The CNN model was built using TensorFlow Keras API with the following layers:
@@ -78,7 +82,7 @@ plt.ylabel("Accuracy")
 plt.show()
 ```
 
-## Project Structure
+## 🗂️  Project Structure
 ```
 fruit-veg-image-classification/
 │
@@ -96,19 +100,19 @@ fruit-veg-image-classification/
 └── README.md
 ```
 
-## Future Improvements
+## 🌟 Future Improvements
 
 Add transfer learning (e.g., VGG16, ResNet50)
 Build a Flask or Streamlit web app for live predictions
 Deploy model using TensorFlow Lite for mobile devices
 
-## Model Accuracy Graph
+## 📊 Model Accuracy Graph
 
 The training and validation accuracy during model training:
 ![Accuracy Graph](./images/Training_accuracy.png)
 ![Validation Graph](./images/Validation_accuracy.png)
 
-## Example Prediction
+## 🧪 Example Prediction
 <p align="center">
   <img src="./images/img1.png" width="300">
   <img src="./images/img2.png" width="300">
